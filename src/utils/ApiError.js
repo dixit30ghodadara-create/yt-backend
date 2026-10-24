@@ -20,4 +20,4 @@ class ApiEroor extends Error{
     }
 }
 
-export {ApiEroor}
+export {ApiError}
